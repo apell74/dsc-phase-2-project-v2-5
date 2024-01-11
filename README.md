@@ -58,6 +58,7 @@ Further analyses could yield additional insights for our clients. These include:
 
 - Close analysis of ZIP codes/location
 - Addition of noise pollution metrics to the model
+- Different modeling techniques
 
 ## Repository Structure
 
