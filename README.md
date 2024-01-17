@@ -35,7 +35,7 @@ Each increase in grade adds, on average, around 250,000 dollars to the price of 
 
 All of the coefficient p-values are zero except for condition, which still manages to be significant at 0.034.
 
-![Image of Square Footage Projectiions](/images/Screenshot 2024-01-17 at 10.57.52 AM.png)
+![Image of Square Footage Projections](/images/Screenshot%202024-01-17%20at%2010.57.52%20AM.png)
 
 
 # Conclusions
