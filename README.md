@@ -36,12 +36,17 @@ Each increase in grade adds, on average, around 250,000 dollars to the price of 
 All of the coefficient p-values are zero except for condition, which still manages to be significant at 0.034.
 
 <img src="images/Screenshot%202024-01-17%20at%2010.57.52%20AM.png" width="600" height="400">
-**Image: Predicted Prices vs. Actual based on Grade**
+
+**Image: Predicted Prices vs. Actual based on Grade
+
 
 <img src="images/Screenshot%202024-01-17%20at%2011.04.40%20AM.png" width="600" height="400">
+
 **Image: Predicted Prices vs. Actual based on Sq. Footage**
 
+
 <img src="images/Screenshot%202024-01-17%20at%2011.04.56%20AM.png" width="600" height="400">
+
 **Image: Predicted Prices vs. Actual based on Condition**
 
 # Conclusions
