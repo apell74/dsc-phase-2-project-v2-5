@@ -65,7 +65,7 @@ Further analyses could yield additional insights for our clients. These include:
     - column_names.md
     - kc_housing_data.csv
 - phase-2-project.ipynb
-- Phase_2_Presentation.pdf (Direct link [here](https://docs.google.com/presentation/d/1no-E4kg61mOoCi9CrSUzbmcNo_mKAYO8nDhqT7nlh9w/edit#slide=id.g2ae3e555e6d_0_303)
+- Phase_2_Presentation.pdf (Direct link [here](https://docs.google.com/presentation/d/1no-E4kg61mOoCi9CrSUzbmcNo_mKAYO8nDhqT7nlh9w/edit#slide=id.g2ae3e555e6d_0_303))
 - .gitignore
 - CONTRIBUTING.md
 - LICENSE.md
