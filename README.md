@@ -1,5 +1,4 @@
 # King County Housing Analysis
-<img src="https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png" width="400">
 
 Author: Adam Pell
 
@@ -35,6 +34,8 @@ Our coefficients show that every square foot of livable space adds about 373 dol
 Each increase in grade adds, on average, around 250,000 dollars to the price of a home. The view feature that we encoded suggests that better views do correlate with higher prices, to the tune of about 130,000 dollars per increase in view quality. Our encoded condition value matters less than the other values, only accounting for about 1200 dollars per unit increase. This probably makes sense, since "condition" has more to do with maintenance of the house while "grade" has to do with more fundamental aspects such as construction and design quality.
 
 All of the coefficient p-values are zero except for condition, which still manages to be significant at 0.034.
+
+![Screenshot of my notebook](images/Screenshot 2024-01-17 at 10.57.52 AM.png "Screenshot of My Notebook")
 
 # Conclusions
 Our final regression model paints a more complete picture of the factors to ignore and the factors to prioritize, whether you're buying or selling.
