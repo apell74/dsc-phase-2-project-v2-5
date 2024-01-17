@@ -35,8 +35,6 @@ Each increase in grade adds, on average, around 250,000 dollars to the price of 
 
 All of the coefficient p-values are zero except for condition, which still manages to be significant at 0.034.
 
-![Square feet image](/Users/adampell/Documents/Flatiron/phase_2/phase-2-project-final/dsc-phase-2-project-v2-5/images/Screenshot 2024-01-17 at 10.57.52 AM.png)
-
 # Conclusions
 Our final regression model paints a more complete picture of the factors to ignore and the factors to prioritize, whether you're buying or selling.
 
@@ -67,6 +65,7 @@ Further analyses could yield additional insights for our clients. These include:
     - column_names.md
     - kc_housing_data.csv
 - phase-2-project.ipynb
+- Phase_2_Presentation.pdf
 - .gitignore
 - CONTRIBUTING.md
 - LICENSE.md
