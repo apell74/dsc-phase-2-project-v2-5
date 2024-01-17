@@ -37,6 +37,10 @@ All of the coefficient p-values are zero except for condition, which still manag
 
 ![Image of Square Footage Projections](/images/Screenshot%202024-01-17%20at%2010.57.52%20AM.png)
 
+<img src="images/Screenshot%202024-01-17%20at%2010.57.52%20AM.png" width="500" height="300">
+
+<img src="images/Screenshot%202024-01-17%20at%2010.57.52%20AM.png" width="300" height="100">
+
 
 # Conclusions
 Our final regression model paints a more complete picture of the factors to ignore and the factors to prioritize, whether you're buying or selling.
